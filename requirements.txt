@@ -1,0 +1,5 @@
+# Python packages used by the pipeline scripts.
+# Standard-library modules such as os, re, argparse, subprocess, glob,
+# Install them separately using the README instructions.
+numpy>=1.20
+pandas>=1.3
